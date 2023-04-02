@@ -1,0 +1,1 @@
+Project Proposal 3/4: you found some good resources, but should have added some on the target architecture, which is WebAssembly and should have proposed a concrete syntax. The weekly schedule is not realistic, you need to start with the grammar, tranlsation scheme right away.
