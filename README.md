@@ -1,5 +1,8 @@
 # COMPSCI 4TB3 - Preconditions, Postconditions, Invariants
 
+
+April 16th 2022
+
 This project aims to extend the P0 language and add Preconditions, Postconditions and Invariants, ie., Hoare logic to it.
 
 ## Project Plan
@@ -66,15 +69,4 @@ Bounds checking normalizes all comparison equations so all ways of writing an eq
 ### Division of Work
 The following outlines how we plan on dividing up our work. We have 3 total team-members, and have allocated work to ensure everyone contributes an equal amount.
 
-### Weekly Schedule
-
-|    Dates          | Tasks Due | Individual(s) Assigned | Task status |
-|-------------------|-----------|------------------------|-------------|
-| March 6th - March 12th  | - Completed Project Description and README        | - All members                       |  In Progress           |
-| March 13th - March 19th | - Research into additional resources and discussion of implementation details   </br>  - Make notes on which functions and files need modification, what needs to be added, etc. (No actual coding will be done this week.)    |                        |             |
-| March 20th - March 26th | - Modifying grammar and updating parser/scanner for updated grammar          |                        |             |
-| March 27th - April 2nd | - Implementation of discussed features into language          |                        |             |
-| April 3rd - April 9th | - Testing efficiency and positive/negative test cases         |                        |             |
-| April 10th - April 16th | - Project Due          |                        |             |
-| April 17th | - Presentation Due          |                        |             |
 
